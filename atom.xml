@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-10-13T03:15:43.510Z</updated>
+  <updated>2018-10-13T05:34:46.389Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,22 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>arcgis 专题知识</title>
+    <link href="http://yoursite.com/2018/10/13/arcgis-%E4%B8%93%E9%A2%98%E7%9F%A5%E8%AF%86/"/>
+    <id>http://yoursite.com/2018/10/13/arcgis-专题知识/</id>
+    <published>2018-10-13T05:30:34.000Z</published>
+    <updated>2018-10-13T05:34:46.389Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+      <category term="arcgis专题知识" scheme="http://yoursite.com/tags/arcgis%E4%B8%93%E9%A2%98%E7%9F%A5%E8%AF%86/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
