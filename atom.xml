@@ -5,12 +5,12 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://gisermao.github.io/"/>
   <updated>2018-12-26T08:14:15.378Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://gisermao.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>jiahaox</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>mapbox入门</title>
-    <link href="http://yoursite.com/2018/12/26/mapbox%E5%85%A5%E9%97%A8/"/>
-    <id>http://yoursite.com/2018/12/26/mapbox入门/</id>
+    <link href="https://gisermao.github.io/2018/12/26/mapbox%E5%85%A5%E9%97%A8/"/>
+    <id>https://gisermao.github.io/2018/12/26/mapbox入门/</id>
     <published>2018-12-26T08:10:12.000Z</published>
     <updated>2018-12-26T08:14:15.378Z</updated>
     
@@ -28,14 +28,14 @@
     </summary>
     
     
-      <category term="webgis" scheme="http://yoursite.com/tags/webgis/"/>
+      <category term="webgis" scheme="https://gisermao.github.io/tags/webgis/"/>
     
   </entry>
   
   <entry>
     <title>arcgis 专题知识</title>
-    <link href="http://yoursite.com/2018/10/13/arcgis-%E4%B8%93%E9%A2%98%E7%9F%A5%E8%AF%86/"/>
-    <id>http://yoursite.com/2018/10/13/arcgis-专题知识/</id>
+    <link href="https://gisermao.github.io/2018/10/13/arcgis-%E4%B8%93%E9%A2%98%E7%9F%A5%E8%AF%86/"/>
+    <id>https://gisermao.github.io/2018/10/13/arcgis-专题知识/</id>
     <published>2018-10-13T05:30:34.000Z</published>
     <updated>2018-12-26T08:14:12.622Z</updated>
     
@@ -51,14 +51,14 @@
     </summary>
     
     
-      <category term="arcgis专题知识" scheme="http://yoursite.com/tags/arcgis%E4%B8%93%E9%A2%98%E7%9F%A5%E8%AF%86/"/>
+      <category term="arcgis专题知识" scheme="https://gisermao.github.io/tags/arcgis%E4%B8%93%E9%A2%98%E7%9F%A5%E8%AF%86/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/10/13/hello-world/"/>
-    <id>http://yoursite.com/2018/10/13/hello-world/</id>
+    <link href="https://gisermao.github.io/2018/10/13/hello-world/"/>
+    <id>https://gisermao.github.io/2018/10/13/hello-world/</id>
     <published>2018-10-13T03:15:43.510Z</published>
     <updated>2018-10-13T03:15:43.510Z</updated>
     
